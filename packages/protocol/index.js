@@ -23,6 +23,8 @@ const AirnodeAddresses = {
   5: AirnodeGoerli.receipt.contractAddress,
   100: AirnodeXdai.receipt.contractAddress,
   250: AirnodeFantom.receipt.contractAddress,
+  // The address of the Airnode contract (must be the same as in config.json)
+  80: '0x4DFBfB60176d164D42E8e6463af587B2F1175cAB',
 };
 const ConvenienceAddresses = {
   3: ConvenienceRopsten.receipt.contractAddress,
@@ -30,6 +32,8 @@ const ConvenienceAddresses = {
   5: ConvenienceGoerli.receipt.contractAddress,
   100: ConvenienceXdai.receipt.contractAddress,
   250: ConvenienceFantom.receipt.contractAddress,
+  // The address of the Convenience contract (must be the same as in config.json)
+  80: '0x73e7c91901d94F0bC1139429A66256411ACfcfBB',
 };
 
 module.exports = {

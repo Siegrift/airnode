@@ -305,11 +305,6 @@ yargs
     'create-provider',
     'Creates a provider and returns its ID',
     {
-      chain: {
-        type: 'string',
-        choices: supportedChains,
-        describe: 'Name of the chain',
-      },
       providerUrl: {
         type: 'string',
         describe: 'URL of the Ethereum provider',
@@ -317,11 +312,15 @@ yargs
       mnemonic: {
         type: 'string',
         demandOption: true,
+        // The mnemonic that was printed out when running the docker deployer.
+        // You can get this mnemonic from AWS configration secrets.
         describe: 'Mnemonic of the wallet',
       },
       providerAdmin: {
         type: 'string',
         demandOption: true,
+        // The address of the account that was used to create the Airnode contract.
+        // You can check this in AWS by querying: "Creating provider with address:"
         describe: 'Address of the provider admin',
       },
     },

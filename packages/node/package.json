@@ -1,6 +1,6 @@
 {
   "name": "@airnode/node",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "MIT",
   "main": "dist/index",
   "types": "dist/index",

@@ -24,6 +24,10 @@ To see the parameters of a command:
 npx @api3/airnode-admin $COMMAND --help
 ```
 
+## Stupid unrelated change
+
+Just to see the changelog action
+
 ## Requester commands
 
 ### `create-requester`

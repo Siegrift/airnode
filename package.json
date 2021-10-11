@@ -1,6 +1,6 @@
 {
   "name": "airnode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "engines": {
     "node": "^12.13.1"
@@ -17,6 +17,7 @@
     "build:ois": "(cd packages/ois && yarn run build)",
     "build:protocol": "(cd packages/protocol && yarn run build)",
     "clean": "lerna run clean --stream",
+    "changeset": "changeset",
     "dev:api": "(cd packages/operation && yarn run dev:api)",
     "dev:api:background": "(cd packages/operation && yarn run dev:api:background)",
     "dev:background": "(cd packages/operation && yarn run dev:background)",
@@ -58,6 +59,8 @@
     "yargs": "^16.2.0"
   },
   "devDependencies": {
+    "@changesets/changelog-github": "^0.4.1",
+    "@changesets/cli": "^2.17.0",
     "@types/jest": "^26.0.13",
     "@typescript-eslint/eslint-plugin": "^4.1.1",
     "@typescript-eslint/parser": "^4.1.1",

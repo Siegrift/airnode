@@ -2,6 +2,8 @@
 
 > The node part of Airnode that allows for connecting multiple blockchains to the rest of the world
 
+## change node as well
+
 ## Features
 
 - Earn money by exposing your API to the rapidly growing blockchain dApp market

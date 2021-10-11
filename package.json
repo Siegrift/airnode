@@ -45,7 +45,8 @@
     "test:protocol": "(cd packages/protocol && yarn run test)",
     "test:node": "(cd packages/node && yarn run test)",
     "test:node:watch": "(cd packages/node && yarn run test:watch)",
-    "test:node:watch:debug": "(cd packages/node && yarn run test:watch:debug)"
+    "test:node:watch:debug": "(cd packages/node && yarn run test:watch:debug)",
+    "version": "changeset version"
   },
   "dependencies": {
     "@types/lodash": "^4.14.165",

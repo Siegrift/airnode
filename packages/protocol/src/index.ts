@@ -39,5 +39,5 @@ export {
   FailedRequestEvent,
   RequestedWithdrawalEvent,
   FulfilledWithdrawalEvent,
-} from './contracts/AirnodeRrp';
-export { TypedEventFilter } from './contracts/commons';
+} from './contracts/AirnodeRrp.d';
+export { TypedEventFilter } from './contracts/common.d';

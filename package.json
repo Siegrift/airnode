@@ -1,6 +1,6 @@
 {
   "name": "airnode",
-  "version": "0.0.2",
+  "version": "0.1.2",
   "license": "MIT",
   "engines": {
     "node": "^12.13.1"

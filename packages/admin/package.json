@@ -1,7 +1,7 @@
 {
   "name": "@airnode/admin",
   "license": "MIT",
-  "version": "0.2.0",
+  "version": "1.0.1",
   "bin": "./cli-wrapper.js",
   "main": "dist/index",
   "scripts": {
@@ -10,7 +10,7 @@
     "compile": "tsc -p tsconfig.build.json"
   },
   "dependencies": {
-    "@airnode/protocol": "^0.1.0",
-    "@airnode/airnode-abi": "^0.1.0"
+    "@airnode/airnode-abi": "^1.0.0",
+    "@airnode/protocol": "^1.0.0"
   }
 }

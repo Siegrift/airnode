@@ -26,5 +26,8 @@
     "serverless": "^2.35.0",
     "webpack": "^5.31.2",
     "webpack-cli": "^4.6.0"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
   }
 }

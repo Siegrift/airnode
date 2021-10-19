@@ -14,5 +14,8 @@
     "prepublishOnly": "yarn run build",
     "test": "SILENCE_LOGGER=true jest --coverage",
     "test:watch": "SILENCE_LOGGER=true jest --coverage --watch"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
   }
 }

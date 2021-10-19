@@ -28,5 +28,8 @@
   },
   "devDependencies": {
     "hardhat-gas-reporter": "^1.0.4"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
   }
 }

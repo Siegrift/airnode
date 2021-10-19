@@ -19,5 +19,8 @@
     "@airnode/ois": "^1.0.0",
     "axios": "^0.21.1",
     "bignumber.js": "^9.0.0"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
   }
 }

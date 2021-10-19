@@ -12,5 +12,8 @@
     "clean": "rimraf -rf ./dist",
     "compile": "tsc -p tsconfig.build.json",
     "prepublishOnly": "yarn run build"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
   }
 }

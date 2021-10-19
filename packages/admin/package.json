@@ -12,5 +12,8 @@
   "dependencies": {
     "@airnode/airnode-abi": "^1.0.0",
     "@airnode/protocol": "^1.0.0"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
   }
 }

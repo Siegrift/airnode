@@ -29,6 +29,7 @@ Just to see the changelog action
 another change
 major change
 patch
+change
 
 ## Requester commands
 

@@ -1,5 +1,11 @@
 # @airnode/admin
 
+## 2.0.0
+
+### Major Changes
+
+- [`7f2cf9e`](https://github.com/Siegrift/airnode/commit/7f2cf9e424607279eba1174017bc50d901f22e63) Thanks [@Siegrift](https://github.com/Siegrift)! - major change
+
 ## 1.0.2
 
 ### Patch Changes

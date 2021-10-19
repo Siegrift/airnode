@@ -1,6 +1,6 @@
 {
   "name": "@airnode/node",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "license": "MIT",
   "main": "dist/index",
   "types": "dist/index",
@@ -21,7 +21,7 @@
     "test:watch:debug": "jest \"initialize.test\" --selectProjects unit --watch"
   },
   "dependencies": {
-    "@airnode/adapter": "^1.0.0",
+    "@airnode/adapter": "^3.0.0",
     "@airnode/airnode-abi": "^1.0.0",
     "@airnode/ois": "^1.0.0",
     "@airnode/operation": "^1.0.0",

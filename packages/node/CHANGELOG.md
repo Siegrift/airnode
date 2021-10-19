@@ -1,5 +1,12 @@
 # @airnode/node
 
+## 3.0.0
+
+### Patch Changes
+
+- Updated dependencies [[`168cae1`](https://github.com/Siegrift/airnode/commit/168cae1fffad43a02486ffae4b50c9c8ad037377)]:
+  - @airnode/adapter@3.0.0
+
 ## 0.2.1
 
 ### Patch Changes

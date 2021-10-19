@@ -49,5 +49,8 @@
   },
   "dependencies": {
     "ethers": "^5.4.4"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
   }
 }

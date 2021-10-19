@@ -27,6 +27,7 @@ npx @api3/airnode-admin $COMMAND --help
 
 Just to see the changelog action
 another change
+major change
 
 ## Requester commands
 

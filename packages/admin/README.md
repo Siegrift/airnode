@@ -26,6 +26,7 @@ npx @api3/airnode-admin $COMMAND --help
 ## Stupid unrelated change
 
 Just to see the changelog action
+another change
 
 ## Requester commands
 

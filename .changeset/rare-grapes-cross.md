@@ -1,0 +1,5 @@
+---
+'@airnode/admin': patch
+---
+
+change

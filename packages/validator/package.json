@@ -32,5 +32,8 @@
     "rimraf": "^3.0.2",
     "ts-node": "^10.1.0",
     "typescript": "^4.2.4"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
   }
 }

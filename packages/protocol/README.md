@@ -5,6 +5,8 @@
 
 See the [docs](https://github.com/api3dao/api3-docs) and the [whitepaper](https://github.com/api3dao/api3-whitepaper) for a high level discussion of the protocol.
 
+zmena
+
 ## Introduction
 
 `AirnodeRrp.sol` is a central contract that implements the entire protocol.

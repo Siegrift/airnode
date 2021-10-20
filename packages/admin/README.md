@@ -30,6 +30,7 @@ another change
 major change
 patch
 change
+patch change
 
 ## Requester commands
 

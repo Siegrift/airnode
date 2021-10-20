@@ -1,0 +1,5 @@
+---
+'@airnode/ois': minor
+---
+
+good

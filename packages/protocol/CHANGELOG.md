@@ -1,5 +1,11 @@
 # @airnode/protocol
 
+## 3.1.0
+
+### Minor Changes
+
+- [`be7fbc3`](https://github.com/Siegrift/airnode/commit/be7fbc394c724b50e43fc2d18a6892e9be37a748) Thanks [@Siegrift](https://github.com/Siegrift)! - minor protocol
+
 ## 3.0.0
 
 ### Major Changes

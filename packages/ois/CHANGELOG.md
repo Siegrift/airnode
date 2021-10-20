@@ -1,0 +1,8 @@
+# @api3/ois
+
+## 1.0.0
+### Major Changes
+
+
+
+- [`5ffaa288`](https://github.com/Siegrift/airnode/commit/5ffaa2885d03fae450d7aabd62261eff60882317) Thanks [@Siegrift](https://github.com/Siegrift)! - Release v1.0.0

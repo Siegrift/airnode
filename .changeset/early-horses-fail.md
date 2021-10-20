@@ -1,0 +1,5 @@
+---
+'@airnode/ois': patch
+---
+
+patch

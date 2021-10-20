@@ -5,7 +5,7 @@
     { "repo": "Siegrift/airnode" }
   ],
   "commit": false,
-  "linked": [["@airnode/*"]],
+  "linked": [],
   "access": "restricted",
   "baseBranch": "master",
   "updateInternalDependencies": "patch",

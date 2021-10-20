@@ -1,6 +1,6 @@
 {
   "name": "@airnode/node",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "license": "MIT",
   "main": "dist/index",
   "types": "dist/index",
@@ -24,8 +24,8 @@
     "@airnode/adapter": "^2.0.0",
     "@airnode/airnode-abi": "^2.0.0",
     "@airnode/ois": "^2.0.0",
-    "@airnode/operation": "^2.0.0",
-    "@airnode/protocol": "^2.0.0",
+    "@airnode/operation": "^3.0.0",
+    "@airnode/protocol": "^3.0.0",
     "@types/bluebird": "^3.5.32",
     "aws-sdk": "^2.753.0",
     "bluebird": "^3.7.2",

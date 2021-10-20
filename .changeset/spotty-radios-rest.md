@@ -1,5 +1,0 @@
----
-'@airnode/protocol': major
----
-
-major

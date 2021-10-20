@@ -1,7 +1,7 @@
 {
   "name": "@airnode/operation",
   "license": "MIT",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "main": "dist/index",
   "types": "dist/index",
   "files": [
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@airnode/airnode-abi": "^2.0.0",
-    "@airnode/protocol": "^2.0.0",
+    "@airnode/protocol": "^3.0.0",
     "@types/express": "^4.17.9",
     "express": "^4.17.1",
     "hardhat": "^2.0.3",

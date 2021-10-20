@@ -1,7 +1,7 @@
 {
   "name": "@airnode/admin",
   "license": "MIT",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "bin": "./cli-wrapper.js",
   "main": "dist/index",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@airnode/airnode-abi": "^2.0.0",
-    "@airnode/protocol": "^2.1.0"
+    "@airnode/protocol": "^3.0.0"
   },
   "publishConfig": {
     "registry": "http://localhost:4873"

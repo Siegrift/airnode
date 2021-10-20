@@ -1,7 +1,7 @@
 {
   "name": "@airnode/adapter",
   "license": "MIT",
-  "version": "2.1.0",
+  "version": "4.0.0",
   "main": "dist/index",
   "types": "dist/index",
   "files": [
@@ -16,7 +16,7 @@
     "test:watch": "SILENCE_LOGGER=true jest --coverage --watch"
   },
   "dependencies": {
-    "@airnode/ois": "^2.1.1",
+    "@airnode/ois": "^4.0.0",
     "axios": "^0.21.1",
     "bignumber.js": "^9.0.0"
   },

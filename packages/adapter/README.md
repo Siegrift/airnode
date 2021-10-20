@@ -15,6 +15,7 @@ yarn add @airnode/adapter
 ```
 
 minor
+minor 2
 
 ## Types
 

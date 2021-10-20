@@ -1,5 +1,18 @@
 # @airnode/admin
 
+## 2.1.0
+
+### Minor Changes
+
+- [`b9926d3`](https://github.com/Siegrift/airnode/commit/b9926d36d829369161b220c0783f87c538c5af6d) Thanks [@Siegrift](https://github.com/Siegrift)! - minor
+
+### Patch Changes
+
+- [`b145c6f`](https://github.com/Siegrift/airnode/commit/b145c6fd8bc54d03a3977d8428ecda3997b1c413) Thanks [@Siegrift](https://github.com/Siegrift)! - pach change
+
+- Updated dependencies [[`dd28be7`](https://github.com/Siegrift/airnode/commit/dd28be7028975e01be5f6671615ff2f532d088d0)]:
+  - @airnode/protocol@2.1.0
+
 ## 3.0.1
 
 ### Patch Changes

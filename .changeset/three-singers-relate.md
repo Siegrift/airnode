@@ -1,5 +1,0 @@
----
-'@airnode/admin': minor
----
-
-minor

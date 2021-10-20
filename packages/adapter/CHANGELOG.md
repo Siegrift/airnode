@@ -1,5 +1,18 @@
 # @airnode/adapter
 
+## 4.1.0
+
+### Minor Changes
+
+- [`a04b3b1`](https://github.com/Siegrift/airnode/commit/a04b3b1cdb4aec7633c69683ed372eedb0218f66) Thanks [@Siegrift](https://github.com/Siegrift)! - release new minor
+
+* [`5fd1bd9`](https://github.com/Siegrift/airnode/commit/5fd1bd94ddb76cdd6fc2c8e049d9c5dc40f14bac) Thanks [@Siegrift](https://github.com/Siegrift)! - minor adapter
+
+### Patch Changes
+
+- Updated dependencies [[`a04b3b1`](https://github.com/Siegrift/airnode/commit/a04b3b1cdb4aec7633c69683ed372eedb0218f66)]:
+  - @airnode/ois@4.1.0
+
 ## 4.0.0
 
 ### Major Changes

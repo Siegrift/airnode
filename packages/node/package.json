@@ -1,6 +1,6 @@
 {
   "name": "@airnode/node",
-  "version": "4.0.0",
+  "version": "4.1.0",
   "license": "MIT",
   "main": "dist/index",
   "types": "dist/index",
@@ -21,11 +21,11 @@
     "test:watch:debug": "jest \"initialize.test\" --selectProjects unit --watch"
   },
   "dependencies": {
-    "@airnode/adapter": "^4.0.0",
-    "@airnode/airnode-abi": "^4.0.0",
-    "@airnode/ois": "^4.0.0",
-    "@airnode/operation": "^4.0.0",
-    "@airnode/protocol": "^4.0.0",
+    "@airnode/adapter": "^4.1.0",
+    "@airnode/airnode-abi": "^4.1.0",
+    "@airnode/ois": "^4.1.0",
+    "@airnode/operation": "^4.1.0",
+    "@airnode/protocol": "^4.1.0",
     "@types/bluebird": "^3.5.32",
     "aws-sdk": "^2.753.0",
     "bluebird": "^3.7.2",

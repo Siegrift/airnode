@@ -1,6 +1,6 @@
 {
   "name": "@airnode/protocol",
-  "version": "4.0.0",
+  "version": "4.1.0",
   "license": "MIT",
   "main": "index",
   "scripts": {

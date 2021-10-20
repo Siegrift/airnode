@@ -1,5 +1,11 @@
 # @airnode/ois
 
+## 4.1.0
+
+### Minor Changes
+
+- [`a04b3b1`](https://github.com/Siegrift/airnode/commit/a04b3b1cdb4aec7633c69683ed372eedb0218f66) Thanks [@Siegrift](https://github.com/Siegrift)! - release new minor
+
 ## 4.0.0
 
 ### Major Changes

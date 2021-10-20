@@ -14,6 +14,8 @@ npm install --save @airnode/adapter
 yarn add @airnode/adapter
 ```
 
+minor
+
 ## Types
 
 You can find the types mentioned below in [src/types.ts](https://github.com/api3dao/airnode/blob/master/packages/adapter/src/types.ts)

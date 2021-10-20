@@ -1,5 +1,0 @@
----
-'@airnode/ois': patch
----
-
-patch

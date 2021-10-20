@@ -31,6 +31,7 @@ major change
 patch
 change
 patch change
+minor
 
 ## Requester commands
 

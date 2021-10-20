@@ -1,0 +1,5 @@
+---
+'@airnode/protocol': minor
+---
+
+minor

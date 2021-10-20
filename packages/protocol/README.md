@@ -30,3 +30,5 @@ In other words, the request-response scheme will soon be finalized and improveme
 The protocol is not finalized yet to get more input about what additional features we should support.
 Therefore, the contracts are not thoroughly tested and audited yet.
 Feel free to raise any issues that are not already reported.
+
+minor change

@@ -19,6 +19,7 @@
     "docs": "ts-node docs/generate-docs.ts",
     "compile": "tsc -p tsconfig.build.json",
     "pack": "yarn pack",
+    "prepublishOnly": "yarn build",
     "test": "jest"
   },
   "dependencies": {

@@ -2,9 +2,35 @@
   "extends": ["config:base"],
   "packageRules": [
     {
-      "matchPackagePatterns": ["*"],
+      "matchDepTypes": ["devDependencies"],
+      "matchUpdateTypes": ["patch", "minor"],
       "rangeStrategy": "bump",
-      "schedule": ["before 2am on monday"]
+      "schedule": ["before 2am on monday"],
+      "groupName": "Update devDependencies (non-major)"
+    },
+    {
+      "matchDepTypes": ["devDependencies"],
+      "matchUpdateTypes": ["major"],
+      "rangeStrategy": "bump",
+      "schedule": ["before 2am on monday"],
+      "groupName": "Update devDependencies (non-major)"
+    },
+    {
+      "matchDepTypes": ["dependencies"],
+      "matchUpdateTypes": ["patch", "minor"],
+      "rangeStrategy": "bump",
+      "schedule": ["before 2am on monday"],
+      "groupName": "Update dependencies (non-major)"
+    },
+    {
+      "matchDepTypes": ["dependencies"],
+      "matchUpdateTypes": ["major"],
+      "rangeStrategy": "bump",
+      "schedule": ["before 2am on monday"],
+      "groupName": "Update dependencies (non-major)"
     }
-  ]
+  ],
+  "lockFileMaintenance": {
+    "enabled": true
+  }
 }

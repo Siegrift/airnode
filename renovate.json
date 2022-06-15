@@ -11,7 +11,7 @@
       "matchDepTypes": ["devDependencies"],
       "matchUpdateTypes": ["major"],
       "schedule": ["before 2am on monday"],
-      "groupName": "Update devDependencies (non-major)"
+      "groupName": "Update devDependencies (major)"
     },
     {
       "matchDepTypes": ["dependencies"],
@@ -23,7 +23,7 @@
       "matchDepTypes": ["dependencies"],
       "matchUpdateTypes": ["major"],
       "schedule": ["before 2am on monday"],
-      "groupName": "Update dependencies (non-major)"
+      "groupName": "Update dependencies (major)"
     }
   ],
   "rangeStrategy": "bump",

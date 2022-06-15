@@ -2,8 +2,8 @@
   "extends": ["config:base"],
   "packageRules": [
     {
-      "matchPackagePatterns": ["eslint"],
-      "groupName": "eslint",
+      "matchPackagePatterns": ["*"],
+      "rangeStrategy": "bump",
       "schedule": ["before 2am on monday"]
     }
   ]

@@ -10,8 +10,9 @@
     {
       "matchDepTypes": ["devDependencies"],
       "matchUpdateTypes": ["major"],
+      "excludePackageNames": ["dotenv"],
       "schedule": ["before 2am on monday"],
-      "groupName": "Update devDependencies (major)"
+      "groupName": "Update devDependencies"
     },
     {
       "matchDepTypes": ["dependencies"],
@@ -22,8 +23,9 @@
     {
       "matchDepTypes": ["dependencies"],
       "matchUpdateTypes": ["major"],
+      "excludePackageNames": ["chalk"],
       "schedule": ["before 2am on monday"],
-      "groupName": "Update dependencies (major)"
+      "groupName": "Update dependencies"
     }
   ],
   "rangeStrategy": "bump",

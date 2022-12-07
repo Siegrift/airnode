@@ -31,7 +31,7 @@
     "@api3/promise-utils": "^0.3.0",
     "@google-cloud/storage": "^6.6.0",
     "aws-sdk": "^2.1243.0",
-    "chalk": "^4.1.2",
+    "chalk": "^5.1.2",
     "cli-table3": "^0.6.3",
     "compare-versions": "^5.0.1",
     "date-fns": "^2.29.3",
